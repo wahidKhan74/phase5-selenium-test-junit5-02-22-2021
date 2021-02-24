@@ -1,4 +1,4 @@
-package com.ecommerce.test.phase5_selenium_test_junit5_02_22_2021.driver;
+package com.ecommerce.test.basics;
 
 import static org.junit.jupiter.api.Assertions.*;
 
